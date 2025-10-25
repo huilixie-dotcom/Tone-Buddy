@@ -41,8 +41,5 @@ Example output: For "I hate this!", detects "Angry", suggests "I dislike this â€
 * pyttsx3 for TTS (Aqrabawi, N. (2017). pyttsx3. https://github.com/nateshmbhat/pyttsx3).
 * Emoji library (emoji. (2024). https://github.com/carpedm20/emoji/).
 * Inspired by: Mehrabian, A. (1971). *Silent messages*; Jurafsky \& Martin (2023) on NLP.
-* All original code (e.g., emotion heuristics, suggestion randomization) by Huili Xie. Borrowed elements clearly commented in source files.
 
-## License
 
-This project is for educational purposes. Feel free to modify, but cite if reusing.# Tone-Buddy
