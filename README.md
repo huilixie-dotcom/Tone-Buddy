@@ -25,7 +25,7 @@ No additional assets (e.g., media files); all functionality generated via code a
 
 ## How to Run the Prototype
 1. Clone the repository: `https://github.com/huilixie-dotcom/Tone-Buddy`.
-2. Navigate to the folder: ` ToneBuddy`.
+2. Navigate to the folder: ` Tone-Buddy`.
 3. Install dependencies: `pip install -r requirements.txt`.
 4. Download NLTK data (run once): Open Python and execute `import nltk; nltk.download('punkt'); nltk.download('punkt\_tab')`.
 5. Run the code: `Tone-Buddy.py`.
