@@ -1,7 +1,7 @@
 # Tone Buddy: AI-Powered Communication Tone Assistant
 
 ## Project Overview
-This is a Python-based desktop application prototype developed for the 52685 Working with Data and Code assessment. The project uses natural language processing (NLP) to analyze text message tones and emotions (e.g., angry, sad, happy, excited, sarcastic), providing rephrasing suggestions, emojis, and text-to-speech playback to reduce misunderstandings in digital communication. It draws from communication principles (e.g., Mehrabian's non-verbal cues) and adapts tones for empathy, especially aiding non-native speakers.
+This is a Python-based desktop application prototype. The project uses natural language processing (NLP) to analyze text message tones and emotions (e.g., angry, sad, happy, excited, sarcastic), providing rephrasing suggestions, emojis, and text-to-speech playback to reduce misunderstandings in digital communication. It draws from communication principles (e.g., Mehrabian's non-verbal cues) and adapts tones for empathy, especially aiding non-native speakers.
 
 Key features:
 * Emotion detection: Refines sentiment using polarity, subjectivity, and keyword heuristics.
