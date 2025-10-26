@@ -7,7 +7,7 @@ Key features:
 * Emotion detection: Refines sentiment using polarity, subjectivity, and keyword heuristics.
 * Dynamic suggestions: Rule-based rephrasings with randomization for variety.
 * Interactive GUI: Real-time analysis, suggestion regeneration, and audio playback.
-* Original code focus: Custom classes and logic for NLP processing and UI, with acknowledgments for libraries.
+* Original code focus: Custom classes and logic for NLP processing and GUI, with acknowledgments for libraries.
 
 This prototype emphasizes code literacy through original contributions like conditional emotion mapping and modular classes, rather than complex outputs.
 
@@ -17,7 +17,7 @@ This prototype emphasizes code literacy through original contributions like cond
 * **Hardware**: Computer with speakers for TTS.
 
 ## File Structure
-* `main.py`: Core code with `ToneAnalyzer` (NLP/emotion logic) and `MessageGUI` (UI/interactions).
+* `Tone-Buddy.py`: Core code with `ToneAnalyzer` (NLP/emotion logic) and `MessageGUI` (UI/interactions).
 * `requirements.txt`: List of dependencies for pip installation.
 * `versions/`: (Optional) Folder with earlier prototypes (e.g., `v1\_basic\_sentiment.py` for initial version without emotion diversity).
 
@@ -25,10 +25,10 @@ No additional assets (e.g., media files); all functionality generated via code a
 
 ## How to Run the Prototype
 1. Clone the repository: `https://github.com/huilixie-dotcom/Tone-Buddy`.
-2. Navigate to the folder: ` Tone-Buddy`.
+2. Navigate to the folder: `cd Tone-Buddy`.
 3. Install dependencies: `pip install -r requirements.txt`.
 4. Download NLTK data (run once): Open Python and execute `import nltk; nltk.download('punkt'); nltk.download('punkt\_tab')`.
-5. Run the code: `Tone-Buddy.py`.
+5. Run the code: `python Tone-Buddy.py`.
 6. Interact with the GUI: Enter text, click "Analyze Tone" for results (tone, emotion, scores, suggestion, emoji); "Get New Suggestion" for alternatives; "Speak Message" for audio.
 7. Debug: Error handling for empty input; console may show traces if issues arise.
 
