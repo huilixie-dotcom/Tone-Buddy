@@ -9,19 +9,15 @@ Key features:
 * Interactive GUI: Real-time analysis, suggestion regeneration, and audio playback.
 * Original code focus: Custom classes and logic for NLP processing and GUI, with acknowledgments for libraries.
 
-This prototype emphasizes code literacy through original contributions like conditional emotion mapping and modular classes, rather than complex outputs.
-
 ## Requirements
 * **Environment**: Python 3.12+ (standard installation; tested on Windows/Mac/Linux).
 * **Dependencies**: `textblob` (sentiment), `nltk` (tokenization), `pyttsx3` (TTS), `emoji` (visuals), and Python's `random` module. No external assets required.
 * **Hardware**: Computer with speakers for TTS.
 
 ## File Structure
-* `Tone-Buddy.py`: Core code with `ToneAnalyzer` (NLP/emotion logic) and `MessageGUI` (UI/interactions).
+* `Tone-Buddy.py`: Core code with `ToneAnalyzer` (NLP/emotion logic) and `MessageGUI` (GUI/interactions).
 * `requirements.txt`: List of dependencies for pip installation.
 * `versions/`: (Optional) Folder with earlier prototypes (e.g., `v1\_basic\_sentiment.py` for initial version without emotion diversity).
-
-No additional assets (e.g., media files); all functionality generated via code and libraries. Previous versions demonstrate iteration if included.
 
 ## How to Run the Prototype
 1. Clone the repository: `https://github.com/huilixie-dotcom/Tone-Buddy`.
