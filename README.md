@@ -10,18 +10,13 @@ Key features:
 * Original code focus: Custom classes and logic for NLP processing and GUI, with acknowledgments for libraries.
 
 ## Requirements
-* **Environment**: Python 3.12+ (standard installation; tested on Windows/Mac/Linux).
+* **Environment**: Python 3.12+ (standard installation; tested on Windows/Mac/Linux) and Visual Stuido Code.
 * **Dependencies**: `textblob` (sentiment), `nltk` (tokenization), `pyttsx3` (TTS), `emoji` (visuals), and Python's `random` module. No external assets required.
 * **Hardware**: Computer with speakers for TTS.
 
-## File Structure
-* `Tone-Buddy.py`: Core code with `ToneAnalyzer` (NLP/emotion logic) and `MessageGUI` (GUI/interactions).
-* `requirements.txt`: List of dependencies for pip installation.
-* `versions/`: (Optional) Folder with earlier prototypes (e.g., `v1\_basic\_sentiment.py` for initial version without emotion diversity).
-
 ## How to Run the Prototype
 1. Clone the repository: `https://github.com/huilixie-dotcom/Tone-Buddy`.
-2. Access Visual Studio Code
+2. Access Visual Studio Code.
 3. Navigate to the folder: `Tone-Buddy.py`.
 4. Run the code: `python Tone-Buddy.py`.
 5. Interact with the GUI: Enter text, click "Analyze Tone" for results (tone, emotion, scores, suggestion, emoji); "Get New Suggestion" for alternatives; "Speak Message" for audio.
