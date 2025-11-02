@@ -25,9 +25,9 @@ No additional assets (e.g., media files); all functionality generated via code a
 
 ## How to Run the Prototype
 1. Clone the repository: `https://github.com/huilixie-dotcom/Tone-Buddy`.
-2. Access VS Code
-3. Navigate to the folder: `cd Tone-Buddy`.
-4. 4. Run the code: `python Tone-Buddy.py`.
+2. Access Visual Studio Code
+3. Navigate to the folder: `Tone-Buddy.py`.
+4. Run the code: `python Tone-Buddy.py`.
 5. Interact with the GUI: Enter text, click "Analyze Tone" for results (tone, emotion, scores, suggestion, emoji); "Get New Suggestion" for alternatives; "Speak Message" for audio.
 6. Debug: Error handling for empty input; console may show traces if issues arise.
 
