@@ -7,7 +7,7 @@ Key features:
 * Emotion detection: Refines sentiment using polarity, subjectivity, and keyword heuristics.
 * Dynamic suggestions: Rule-based rephrasings with randomization for variety.
 * Interactive GUI: Real-time analysis, suggestion regeneration, and audio playback.
-* Original code focus: Custom classes and logic for NLP processing and GUI, with acknowledgments for libraries.
+* Original code focus: Custom classes and logic for NLP processing and UI, with acknowledgments for libraries.
 
 ## Requirements
 * **Environment**: Python 3.12+ (standard installation; tested on Windows/Mac/Linux) and Visual Stuido Code.
